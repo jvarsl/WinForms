@@ -2,7 +2,7 @@ Sukurtai duomenų bazei parašytas GUI su WinForms C#, kad būtų galima atlikti
 
 ![alt text](./in_usage.png?raw=true)
 
-![alt text](./db_schema.jpg?raw=true)
+![alt text](./db_schema.png?raw=true)
 
 ## Reikalavimai
 
